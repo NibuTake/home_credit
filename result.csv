@@ -1,0 +1,12 @@
+name,value
+bagging_fraction,0.6062327934205956
+bagging_freq,1
+colsample_bytree,0.7539416811230776
+eval_metric,auc
+feature_fraction,0.5820054752481925
+lambda_l1,6.747798904225441
+lambda_l2,9.114653249665473
+learning_rate,0.1271573964672833
+num_leaves,46
+objective,binary
+subsample,0.769485580487689
